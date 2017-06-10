@@ -1,0 +1,17 @@
+{
+  "name": "materialvsbootstrap",
+  "description": "demo to see hoa a form looks in bootstrap vs how it looks when built on angular material",
+  "main": "src/server/app.js",
+  "authors": [
+    "Surya"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/itzmesurya/materialvsbootstrap",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
